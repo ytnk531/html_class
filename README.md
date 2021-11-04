@@ -52,7 +52,7 @@ include HtmlClass::Dsl
 html_class(:banner, :bold) # => "banner bold"
 ```
 
-In Ruby on Rails, configure Controller class to use this sintax.
+In Ruby on Rails, configure Controller class to use this syntax.
 
 ```ruby
 # In application controller
